@@ -4,7 +4,7 @@
 
 👨🏻‍🎓 I am now learning to apply machine learning in solving various problems, working with Unity and Blender
 
-Proficient: Unity, C#, VR, Android
+Proficient: С#, Python, Unity, Blender, Machine Learning and Neural Networks
 
 ## 😄 About me 
 

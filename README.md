@@ -10,8 +10,8 @@ Proficient: С#, Python, Unity, Blender, Machine Learning and Neural Networks
 
 ![Aynur's GitHub stats](https://github-readme-stats.vercel.app/api?username=aynur19&count_private=true&show_icons=true&theme=merko)
 
-![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=aynur19&count_private=true&hide=contribs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aynur19&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aynur19&count_private=true&langs_count=10&theme=merko&layout=compact)
+
 
 <!--
 **Aynur19/Aynur19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

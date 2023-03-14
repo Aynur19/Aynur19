@@ -8,7 +8,7 @@ Proficient: С#, Python, Unity, Blender, Machine Learning and Neural Networks
 
 ## 📈 GitHub Stats
 
-![Aynur's GitHub stats](https://github-readme-stats.vercel.app/api?username=aynur19&count_private=true)
+![Aynur's GitHub stats](https://github-readme-stats.vercel.app/api?username=aynur19&count_private=true&show_icons=true)
 
 ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=aynur19&count_private=true&hide=contribs&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aynur19&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)

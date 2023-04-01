@@ -1,3 +1,10 @@
+<div id="header" align="center">
+    <img scr="https://media.giphy.com/media/4FuWE3ffHzk2Y/giphy.gif" 
+        width="100">
+</div>
+
+
+
 # 👦🏻 Hello![Visitors](https://visitor-badge.glitch.me/badge?page_id=aynur19) 
 
 Proficient: С#, Python, Unity, Blender, Machine Learning and Neural Networks

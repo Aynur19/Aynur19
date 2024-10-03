@@ -47,9 +47,11 @@ All of the above is interesting to me, and in each of the areas I have some expe
 `Swift` `SwiftUI` `Core Data` `Combine` `KeyChain` `UIKit` `Concurrency` 
 
 3. Neural networks and machine learning:
+
 `Python 3` `Keras` `Pandas` `Numpy` `PyThorch` `TensorFlow` `SK-Learn` 
 
 4. Game Development & CGI:
+
 `Blender` `Unity` `Unreal Engine`
 
 5. Databases and containerization:
@@ -57,9 +59,11 @@ All of the above is interesting to me, and in each of the areas I have some expe
 `PostgreSQL`, `MS SQL Server`, `MongoDB`, `Docker`
 
 6. Version control and CI/CD systems:
+
 `Git`, `GitHub`, `GitLab`, `BitBucket`
 
 7. Other:
+
 `JavaScript` `Visual Studio` `VS Code` `Xcode` `Jupyter Notebook` `PyCharm` `Google Colab` `Kaggle`
 
 
